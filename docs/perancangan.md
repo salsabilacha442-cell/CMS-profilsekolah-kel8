@@ -59,3 +59,8 @@ erDiagram
         string gambar
     }
 ```
+## link figma
+https://www.figma.com/design/R5dueIy9dYcOzzsCy0FkFH/srikandi-cms-propil-sekolah-2?node-id=9-4391&t=JSC3TcFKVBfySHXs-1
+
+## Screenshot Wireframe
+https://drive.google.com/drive/folders/1HBIL0pqs3jAXqDLO3EYAYo0bPpQZmy9G?usp=sharing
