@@ -103,9 +103,9 @@ https://www.figma.com/design/R5dueIy9dYcOzzsCy0FkFH/srikandi-cms-propil-sekolah-
 
 ## Anggota Kelompok
 
-1. Putri Daulay
-2. Athaya
-3. Salsabila
+1. AMELIA PUTRI AYU DAULAY
+2. ATHAYA REKA FARHANA SANTOSO
+3. SALSABILA
 
 ---
 
