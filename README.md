@@ -2,16 +2,111 @@
 
 Tugas Besar Pemrograman Web 1
 
-## Deskripsi
-CMS Company Profile Sekolah untuk pengelolaan informasi sekolah.
 
-## Teknologi
-- HTML
-- CSS
-- JavaScript
+## Deskripsi Proyek
+
+MENTARI Suite merupakan proyek **Content Management System (CMS) Profil Sekolah** yang dikembangkan sebagai tugas besar Mata Kuliah Pemrograman Web 1 (Client-Side Programming).
+
+Sistem ini dirancang untuk membantu administrator sekolah dalam mengelola informasi website sekolah seperti profil sekolah, data guru, data siswa, berita, galeri, serta laporan melalui sebuah Admin Panel yang modern, responsif, dan mudah digunakan.
+
+---
+
+## Tujuan Proyek
+
+* Merancang antarmuka Admin Panel yang informatif.
+* Mengimplementasikan desain menggunakan HTML, CSS, dan JavaScript.
+* Menerapkan konsep UI/UX yang mudah digunakan.
+* Menyusun dokumentasi proyek menggunakan GitHub.
+
+---
+
+## Fitur Utama
+
+* Dashboard Admin
+* Profil Yayasan
+* Struktur Organisasi
+* Kelola Sekolah
+* Data Guru & Dosen
+* Data Siswa
+* Kelola Ekstrakurikuler
+* Kelola Prestasi
+* Kelola Fasilitas
+* Kelola Galeri
+* Kelola Pengumuman
+* Data Alumni
+* Berita & Artikel
+* Kontak
+* Laporan
+* Logout
+
+
+
+---
+
+## Teknologi yang Digunakan
+
+* HTML5
+* CSS3
+* JavaScript
+* Chart.js
+* Git & GitHub
+* Figma
+
+---
+
+## Tema UI
+
+Material Design
+
+---
+
+## Struktur Folder
+
+```text
+docs/
+│── perancangan.md
+
+assets/
+├── css/
+├── js/
+└── img/
+
+pages/
+├── dashboard.html
+├── data-guru.html
+├── data-siswa.html
+├── berita.html
+├── laporan.html
+
+index.html
+```
+
+---
 
 ## Dokumentasi
-Lihat file perancangan.md
+
+* Perancangan Sistem terdapat pada file **docs/perancangan.md**
+* Wireframe dan UI Design dibuat menggunakan **Figma**
+* ERD disusun sebagai dasar perancangan database.
+
+---
 
 ## Link Figma
-https://www.figma.com/design/R5dueIy9dYcOzzsCy0FkFH/srikandi-cms-propil-sekolah-2?t=pNGFQ2beZMwNsfy9-1
+link publik Figma
+
+---
+
+## Anggota Kelompok
+
+1. Putri Daulay
+2. Athaya
+3. Salsabila
+
+---
+
+## Mata Kuliah
+
+Pemrograman Web 1 (Client-Side Programming)
+
+Universitas Pamulang
+
